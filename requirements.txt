@@ -1,4 +1,0 @@
-requests
-cryptography
-urllib3
-python-telegram-bot
